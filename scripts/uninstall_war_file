@@ -1,0 +1,2 @@
+rm -rf /var/lib/tomcat7/webapps/SampleWebApp.war
+rm -rf /var/lib/tomcat7/webapps/SampleWebApp
